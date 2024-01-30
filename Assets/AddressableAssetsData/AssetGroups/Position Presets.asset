@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Position Presets
+  m_EditorClassIdentifier: 
+  m_GroupName: Position Presets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1fdf3edd01fc610479dc860bdea603dc
+  m_SerializeEntries:
+  - m_GUID: acef3d6fdef4def4db6a9530d5435ed0
+    m_Address: Assets/AResources/Position Presets
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PositionPresets
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e3709af2fc87e5a4c80aa3dc91a93c6c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d275baf658ef9cd41b07c9ee32c30045, type: 2}
+    - {fileID: 11400000, guid: e28680d41def85e49b87481d012ff5b0, type: 2}
